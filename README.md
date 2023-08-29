@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mazaalto
 - 👀 I’m interested in AI, games and science fiction
-- 🌱 I’m currently learning game development with Unity and C#
+- 🌱 I’m currently learning game development
 - 💞️ I’m looking to collaborate on a game project
 - 📫 How to reach me: matias.aaltosetala@gmail.com
 
